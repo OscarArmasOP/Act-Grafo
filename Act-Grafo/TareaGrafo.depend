@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1556549268 source:c:\users\alex\desktop\tareagrafo\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1556234338 c:\users\alex\desktop\tareagrafo\grafo.h
+	<iostream>
+	<fstream>
+	<string>
+	"Seriable.h"
+
+1555698720 c:\users\alex\desktop\tareagrafo\seriable.h
+	<fstream>
+
+1556299447 source:c:\users\alex\desktop\tareagrafo\grafo.cpp
+	"Grafo.h"
+	<iomanip>
+
+1556299447 source:c:\users\alex\desktop\alex\cucei\4 semestre\seminario de estructura de datos ii\6.- tareagrafo\grafo.cpp
+	"Grafo.h"
+	<iomanip>
+
+1556234338 c:\users\alex\desktop\alex\cucei\4 semestre\seminario de estructura de datos ii\6.- tareagrafo\grafo.h
+	<iostream>
+	<fstream>
+	<string>
+	"Seriable.h"
+
+1555698720 c:\users\alex\desktop\alex\cucei\4 semestre\seminario de estructura de datos ii\6.- tareagrafo\seriable.h
+	<fstream>
+
+1556549268 source:c:\users\alex\desktop\alex\cucei\4 semestre\seminario de estructura de datos ii\6.- tareagrafo\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1556295848 source:c:\users\oma_1\desktop\cosas-2019\alex\6.- tareagrafo\grafo.cpp
+	"Grafo.h"
+	<iomanip>
+
+1556230740 c:\users\oma_1\desktop\cosas-2019\alex\6.- tareagrafo\grafo.h
+	<iostream>
+	<fstream>
+	<string>
+	"Seriable.h"
+
+1555695122 c:\users\oma_1\desktop\cosas-2019\alex\6.- tareagrafo\seriable.h
+	<fstream>
+
